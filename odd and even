@@ -1,0 +1,12 @@
+Public Class condition{
+Public Static void main(String[]arg){
+scanner sc=new scanner(System.in);
+int x=sc.nextInt();
+if(x%2==0){
+sopln("Even");
+}else{
+Sopln(Odd");
+}
+}
+}
+}
